@@ -45,7 +45,7 @@ namespace Solution_2
                         Console.WriteLine($"Периметр: {rectangle.Perimeter()}");
                         break;
                 }
-                Console.WriteLine("Введите \"-\" есдли хотите закончить.");
+                Console.WriteLine("Введите \"-\" есди хотите закончить.");
                 sBreak = Console.ReadLine();
             }
         }
